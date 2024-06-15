@@ -1,0 +1,8 @@
+div > button > p,
+div > button > img {
+  margin: 15px;
+}
+
+div > button > img {
+  height: 50%;
+}
